@@ -1,1 +1,3 @@
-Screenshots explain complecated feature clearly.  They are lincensed under the MIT License.
+Screenshots explain complicated feature clearly.
+
+Distributed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
