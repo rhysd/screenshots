@@ -9,7 +9,7 @@ EOS
 
 repos = Dir['*/'].map do |d|
   f.puts "\n## [#{d}](https://github.com/rhysd/#{d})"
-  Dir["#{d}/**"]
+  Dir["#{d}**"]
     .select{|p| p =~ /\.(:?gif|jpg|png|svg)$/}
     .each do |p|
       f.puts "* [#{File.basename p}](#{p})"
