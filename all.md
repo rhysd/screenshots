@@ -225,6 +225,12 @@ All Screenshots
 ![](ezoe/ezoe.png)
 
 
+## [Irasutoyer/](https://github.com/rhysd/Irasutoyer/)
+* [Irasutoyer-linux.png](Irasutoyer/Irasutoyer-linux.png)
+
+![](Irasutoyer/Irasutoyer-linux.png)
+
+
 ## [clever-f.vim/](https://github.com/rhysd/clever-f.vim/)
 * [cleverf_1.gif](clever-f.vim/cleverf_1.gif)
 
