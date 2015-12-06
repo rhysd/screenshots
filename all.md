@@ -72,6 +72,10 @@ All Screenshots
 
 
 ## [Irasutoyer/](https://github.com/rhysd/Irasutoyer/)
+* [advanced.gif](Irasutoyer/advanced.gif)
+
+![](Irasutoyer/advanced.gif)
+
 * [Irasutoyer-linux.png](Irasutoyer/Irasutoyer-linux.png)
 
 ![](Irasutoyer/Irasutoyer-linux.png)
@@ -80,9 +84,9 @@ All Screenshots
 
 ![](Irasutoyer/Irasutoyer.gif)
 
-* [menu-items.gif](Irasutoyer/menu-items.gif)
+* [menu-items.png](Irasutoyer/menu-items.png)
 
-![](Irasutoyer/menu-items.gif)
+![](Irasutoyer/menu-items.png)
 
 * [scraping.gif](Irasutoyer/scraping.gif)
 
