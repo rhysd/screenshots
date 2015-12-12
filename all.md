@@ -94,6 +94,10 @@ All Screenshots
 
 
 ## [neovim-component/](https://github.com/rhysd/neovim-component/)
+* [flow.png](neovim-component/flow.png)
+
+![](neovim-component/flow.png)
+
 * [markdown-example.gif](neovim-component/markdown-example.gif)
 
 ![](neovim-component/markdown-example.gif)
