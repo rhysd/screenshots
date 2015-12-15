@@ -106,6 +106,10 @@ All Screenshots
 
 ![](neovim-component/neovim-component-linux.png)
 
+* [popup-image-example.gif](neovim-component/popup-image-example.gif)
+
+![](neovim-component/popup-image-example.gif)
+
 
 ## [NyaoVim/](https://github.com/rhysd/NyaoVim/)
 * [progress.gif](NyaoVim/progress.gif)
