@@ -102,6 +102,10 @@ All Screenshots
 
 ![](neovim-component/markdown-example.gif)
 
+* [mini-browser.gif](neovim-component/mini-browser.gif)
+
+![](neovim-component/mini-browser.gif)
+
 * [neovim-component-linux.png](neovim-component/neovim-component-linux.png)
 
 ![](neovim-component/neovim-component-linux.png)
@@ -112,9 +116,9 @@ All Screenshots
 
 
 ## [NyaoVim/](https://github.com/rhysd/NyaoVim/)
-* [progress.gif](NyaoVim/progress.gif)
+* [old-implementation.gif](NyaoVim/old-implementation.gif)
 
-![](NyaoVim/progress.gif)
+![](NyaoVim/old-implementation.gif)
 
 
 ## [PocketTrend/](https://github.com/rhysd/PocketTrend/)
