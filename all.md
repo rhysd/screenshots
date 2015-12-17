@@ -121,6 +121,12 @@ All Screenshots
 ![](NyaoVim/old-implementation.gif)
 
 
+## [nyaovim-popup-tooltip/](https://github.com/rhysd/nyaovim-popup-tooltip/)
+* [main.gif](nyaovim-popup-tooltip/main.gif)
+
+![](nyaovim-popup-tooltip/main.gif)
+
+
 ## [PocketTrend/](https://github.com/rhysd/PocketTrend/)
 * [main.png](PocketTrend/main.png)
 
