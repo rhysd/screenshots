@@ -124,11 +124,21 @@ All Screenshots
 
 ![](NyaoVim/old-implementation.gif)
 
+* [structure.png](NyaoVim/structure.png)
+
+![](NyaoVim/structure.png)
+
 
 ## [nyaovim-popup-tooltip/](https://github.com/rhysd/nyaovim-popup-tooltip/)
 * [main.gif](nyaovim-popup-tooltip/main.gif)
 
 ![](nyaovim-popup-tooltip/main.gif)
+
+
+## [nyaovim-running-gopher/](https://github.com/rhysd/nyaovim-running-gopher/)
+* [running-gopher.gif](nyaovim-running-gopher/running-gopher.gif)
+
+![](nyaovim-running-gopher/running-gopher.gif)
 
 
 ## [PocketTrend/](https://github.com/rhysd/PocketTrend/)
