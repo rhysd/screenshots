@@ -98,6 +98,10 @@ All Screenshots
 
 ![](neovim-component/flow.png)
 
+* [main.gif](neovim-component/main.gif)
+
+![](neovim-component/main.gif)
+
 * [markdown-example.gif](neovim-component/markdown-example.gif)
 
 ![](neovim-component/markdown-example.gif)
