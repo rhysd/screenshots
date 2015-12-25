@@ -232,6 +232,10 @@ All Screenshots
 
 
 ## [about-window/](https://github.com/rhysd/about-window/)
+* [about-window-windows.jpg](about-window/about-window-windows.jpg)
+
+![](about-window/about-window-windows.jpg)
+
 * [about-window-linux.png](about-window/about-window-linux.png)
 
 ![](about-window/about-window-linux.png)
