@@ -133,6 +133,16 @@ All Screenshots
 ![](neovim-component/popup-image-example.gif)
 
 
+## [npm-debug-log.vim/](https://github.com/rhysd/npm-debug-log.vim/)
+* [disabled.png](npm-debug-log.vim/disabled.png)
+
+![](npm-debug-log.vim/disabled.png)
+
+* [enabled.png](npm-debug-log.vim/enabled.png)
+
+![](npm-debug-log.vim/enabled.png)
+
+
 ## [NyaoVim/](https://github.com/rhysd/NyaoVim/)
 * [old-implementation.gif](NyaoVim/old-implementation.gif)
 
