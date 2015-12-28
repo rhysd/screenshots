@@ -153,6 +153,12 @@ All Screenshots
 ![](NyaoVim/structure.png)
 
 
+## [nyaovim-mini-browser/](https://github.com/rhysd/nyaovim-mini-browser/)
+* [main.gif](nyaovim-mini-browser/main.gif)
+
+![](nyaovim-mini-browser/main.gif)
+
+
 ## [nyaovim-popup-tooltip/](https://github.com/rhysd/nyaovim-popup-tooltip/)
 * [main.gif](nyaovim-popup-tooltip/main.gif)
 
