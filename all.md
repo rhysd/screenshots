@@ -153,6 +153,12 @@ All Screenshots
 ![](NyaoVim/structure.png)
 
 
+## [nyaovim-markdown-preview/](https://github.com/rhysd/nyaovim-markdown-preview/)
+* [main.gif](nyaovim-markdown-preview/main.gif)
+
+![](nyaovim-markdown-preview/main.gif)
+
+
 ## [nyaovim-mini-browser/](https://github.com/rhysd/nyaovim-mini-browser/)
 * [main.gif](nyaovim-mini-browser/main.gif)
 
