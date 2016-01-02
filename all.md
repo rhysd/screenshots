@@ -37,6 +37,12 @@ All Screenshots
 ![](clever-f.vim/cleverf_main.gif)
 
 
+## [committia.vim/](https://github.com/rhysd/committia.vim/)
+* [main.jpg](committia.vim/main.jpg)
+
+![](committia.vim/main.jpg)
+
+
 ## [crdoc/](https://github.com/rhysd/crdoc/)
 * [crdoc.gif](crdoc/crdoc.gif)
 
