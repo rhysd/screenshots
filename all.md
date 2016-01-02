@@ -260,6 +260,10 @@ All Screenshots
 
 ![](Tilectron/current-progress.gif)
 
+* [static.png](Tilectron/static.png)
+
+![](Tilectron/static.png)
+
 
 ## [try-colorscheme.vim/](https://github.com/rhysd/try-colorscheme.vim/)
 * [try-colorscheme.gif](try-colorscheme.vim/try-colorscheme.gif)
