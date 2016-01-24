@@ -216,6 +216,10 @@ All Screenshots
 
 ![](Shiba/dock.png)
 
+* [katex.png](Shiba/katex.png)
+
+![](Shiba/katex.png)
+
 * [menu-errors.png](Shiba/menu-errors.png)
 
 ![](Shiba/menu-errors.png)
