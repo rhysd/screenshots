@@ -10,9 +10,9 @@ All Screenshots
 
 ![](about-window/about-window-os-x.png)
 
-* [about-window-windows.jpg](about-window/about-window-windows.jpg)
+* [about-window-windows.png](about-window/about-window-windows.png)
 
-![](about-window/about-window-windows.jpg)
+![](about-window/about-window-windows.png)
 
 
 ## [clever-f.vim/](https://github.com/rhysd/clever-f.vim/)
