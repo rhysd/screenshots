@@ -150,6 +150,10 @@ All Screenshots
 
 
 ## [NyaoVim/](https://github.com/rhysd/NyaoVim/)
+* [nyaovim-windows.jpg](NyaoVim/nyaovim-windows.jpg)
+
+![](NyaoVim/nyaovim-windows.jpg)
+
 * [old-implementation.gif](NyaoVim/old-implementation.gif)
 
 ![](NyaoVim/old-implementation.gif)
