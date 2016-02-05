@@ -15,6 +15,12 @@ All Screenshots
 ![](about-window/about-window-windows.jpg)
 
 
+## [ask-on-exception/](https://github.com/rhysd/ask-on-exception/)
+* [main.gif](ask-on-exception/main.gif)
+
+![](ask-on-exception/main.gif)
+
+
 ## [clever-f.vim/](https://github.com/rhysd/clever-f.vim/)
 * [cleverf_1.gif](clever-f.vim/cleverf_1.gif)
 
