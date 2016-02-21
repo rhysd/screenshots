@@ -65,6 +65,12 @@ All Screenshots
 ![](Crisp/crisp.gif)
 
 
+## [dot-github/](https://github.com/rhysd/dot-github/)
+* [main.gif](dot-github/main.gif)
+
+![](dot-github/main.gif)
+
+
 ## [ezoe/](https://github.com/rhysd/ezoe/)
 * [ezoe.png](ezoe/ezoe.png)
 
