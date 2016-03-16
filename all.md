@@ -199,6 +199,12 @@ All Screenshots
 ![](nyaovim-running-gopher/running-gopher.gif)
 
 
+## [nyaovim-tree-view/](https://github.com/rhysd/nyaovim-tree-view/)
+* [static.png](nyaovim-tree-view/static.png)
+
+![](nyaovim-tree-view/static.png)
+
+
 ## [PocketTrend/](https://github.com/rhysd/PocketTrend/)
 * [main.png](PocketTrend/main.png)
 
