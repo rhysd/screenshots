@@ -250,6 +250,10 @@ All Screenshots
 
 ![](Shiba/menu-no-error.png)
 
+* [search.gif](Shiba/search.gif)
+
+![](Shiba/search.gif)
+
 * [shiba-main-0.1.0.png](Shiba/shiba-main-0.1.0.png)
 
 ![](Shiba/shiba-main-0.1.0.png)
