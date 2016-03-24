@@ -266,6 +266,10 @@ All Screenshots
 
 ![](Shiba/shiba-screenshot.gif)
 
+* [tooltip.gif](Shiba/tooltip.gif)
+
+![](Shiba/tooltip.gif)
+
 * [window-lint.png](Shiba/window-lint.png)
 
 ![](Shiba/window-lint.png)
