@@ -384,3 +384,13 @@ All Screenshots
 
 ![](vim-textobj-conflict/textobj-conflict.gif)
 
+
+## [vim-wast/](https://github.com/rhysd/vim-wast/)
+* [lisp.png](vim-wast/lisp.png)
+
+![](vim-wast/lisp.png)
+
+* [wast.png](vim-wast/wast.png)
+
+![](vim-wast/wast.png)
+
