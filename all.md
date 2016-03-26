@@ -329,6 +329,12 @@ All Screenshots
 ![](unite-n4140.vim/unite-n4140.gif)
 
 
+## [unite-redpen.vim/](https://github.com/rhysd/unite-redpen.vim/)
+* [main.gif](unite-redpen.vim/main.gif)
+
+![](unite-redpen.vim/main.gif)
+
+
 ## [vim-color-shiny-white/](https://github.com/rhysd/vim-color-shiny-white/)
 * [screenshot.png](vim-color-shiny-white/screenshot.png)
 
