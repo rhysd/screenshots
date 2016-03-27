@@ -266,6 +266,10 @@ All Screenshots
 
 ![](Shiba/shiba-screenshot.gif)
 
+* [title-bar.jpg](Shiba/title-bar.jpg)
+
+![](Shiba/title-bar.jpg)
+
 * [tooltip.gif](Shiba/tooltip.gif)
 
 ![](Shiba/tooltip.gif)
