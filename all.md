@@ -339,6 +339,12 @@ All Screenshots
 ![](unite-redpen.vim/main.gif)
 
 
+## [vim-clang-format/](https://github.com/rhysd/vim-clang-format/)
+* [main.gif](vim-clang-format/main.gif)
+
+![](vim-clang-format/main.gif)
+
+
 ## [vim-color-shiny-white/](https://github.com/rhysd/vim-color-shiny-white/)
 * [screenshot.png](vim-color-shiny-white/screenshot.png)
 
