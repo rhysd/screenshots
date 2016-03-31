@@ -274,6 +274,10 @@ All Screenshots
 
 ![](Shiba/tooltip.gif)
 
+* [tufte-tomorrow.png](Shiba/tufte-tomorrow.png)
+
+![](Shiba/tufte-tomorrow.png)
+
 * [window-lint.png](Shiba/window-lint.png)
 
 ![](Shiba/window-lint.png)
