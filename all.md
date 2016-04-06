@@ -238,6 +238,10 @@ All Screenshots
 
 ![](Shiba/dock.png)
 
+* [hide-title-bar.png](Shiba/hide-title-bar.png)
+
+![](Shiba/hide-title-bar.png)
+
 * [katex.png](Shiba/katex.png)
 
 ![](Shiba/katex.png)
@@ -249,6 +253,14 @@ All Screenshots
 * [menu-no-error.png](Shiba/menu-no-error.png)
 
 ![](Shiba/menu-no-error.png)
+
+* [outline-window.png](Shiba/outline-window.png)
+
+![](Shiba/outline-window.png)
+
+* [search-anime.gif](Shiba/search-anime.gif)
+
+![](Shiba/search-anime.gif)
 
 * [search.gif](Shiba/search.gif)
 
