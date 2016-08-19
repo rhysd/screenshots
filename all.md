@@ -411,6 +411,12 @@ All Screenshots
 ![](vim-crystal/spec.gif)
 
 
+## [vim-rustpeg/](https://github.com/rhysd/vim-rustpeg/)
+* [main.png](vim-rustpeg/main.png)
+
+![](vim-rustpeg/main.png)
+
+
 ## [vim-textobj-conflict/](https://github.com/rhysd/vim-textobj-conflict/)
 * [textobj-conflict.gif](vim-textobj-conflict/textobj-conflict.gif)
 
@@ -428,9 +434,21 @@ All Screenshots
 
 
 ## [YourFukurou/](https://github.com/rhysd/YourFukurou/)
+* [activity_full.png](YourFukurou/activity_full.png)
+
+![](YourFukurou/activity_full.png)
+
+* [activity_mini.png](YourFukurou/activity_mini.png)
+
+![](YourFukurou/activity_mini.png)
+
 * [completion.png](YourFukurou/completion.png)
 
 ![](YourFukurou/completion.png)
+
+* [full-view.png](YourFukurou/full-view.png)
+
+![](YourFukurou/full-view.png)
 
 * [main.gif](YourFukurou/main.gif)
 
@@ -440,6 +458,10 @@ All Screenshots
 
 ![](YourFukurou/main.png)
 
+* [mini-view.png](YourFukurou/mini-view.png)
+
+![](YourFukurou/mini-view.png)
+
 * [reply-form.png](YourFukurou/reply-form.png)
 
 ![](YourFukurou/reply-form.png)
@@ -447,4 +469,8 @@ All Screenshots
 * [tweet-form.png](YourFukurou/tweet-form.png)
 
 ![](YourFukurou/tweet-form.png)
+
+* [user-popup-and-drawer-timeline.gif](YourFukurou/user-popup-and-drawer-timeline.gif)
+
+![](YourFukurou/user-popup-and-drawer-timeline.gif)
 
