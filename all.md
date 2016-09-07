@@ -411,6 +411,16 @@ All Screenshots
 ![](vim-crystal/spec.gif)
 
 
+## [vim-gfm-syntax/](https://github.com/rhysd/vim-gfm-syntax/)
+* [after.png](vim-gfm-syntax/after.png)
+
+![](vim-gfm-syntax/after.png)
+
+* [before.png](vim-gfm-syntax/before.png)
+
+![](vim-gfm-syntax/before.png)
+
+
 ## [vim-rustpeg/](https://github.com/rhysd/vim-rustpeg/)
 * [main.png](vim-rustpeg/main.png)
 
