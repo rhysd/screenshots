@@ -1,6 +1,12 @@
 All Screenshots
 ===============
 
+## [8cc.vim/](https://github.com/rhysd/8cc.vim/)
+* [hello.png](8cc.vim/hello.png)
+
+![](8cc.vim/hello.png)
+
+
 ## [about-window/](https://github.com/rhysd/about-window/)
 * [about-window-linux.png](about-window/about-window-linux.png)
 
