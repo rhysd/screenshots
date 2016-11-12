@@ -77,6 +77,12 @@ All Screenshots
 ![](dot-github/main.gif)
 
 
+## [electron-open-url/](https://github.com/rhysd/electron-open-url/)
+* [main.gif](electron-open-url/main.gif)
+
+![](electron-open-url/main.gif)
+
+
 ## [ezoe/](https://github.com/rhysd/ezoe/)
 * [ezoe.png](ezoe/ezoe.png)
 
@@ -329,6 +335,12 @@ All Screenshots
 * [static.png](Tilectron/static.png)
 
 ![](Tilectron/static.png)
+
+
+## [translate-markdown/](https://github.com/rhysd/translate-markdown/)
+* [main.gif](translate-markdown/main.gif)
+
+![](translate-markdown/main.gif)
 
 
 ## [try-colorscheme.vim/](https://github.com/rhysd/try-colorscheme.vim/)
