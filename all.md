@@ -77,6 +77,12 @@ All Screenshots
 ![](dot-github/main.gif)
 
 
+## [electron-in-page-search/](https://github.com/rhysd/electron-in-page-search/)
+* [main.gif](electron-in-page-search/main.gif)
+
+![](electron-in-page-search/main.gif)
+
+
 ## [electron-open-url/](https://github.com/rhysd/electron-open-url/)
 * [main.gif](electron-open-url/main.gif)
 
