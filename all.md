@@ -27,6 +27,24 @@ All Screenshots
 ![](ask-on-exception/main.gif)
 
 
+## [Chromenu/](https://github.com/rhysd/Chromenu/)
+* [after-registration.png](Chromenu/after-registration.png)
+
+![](Chromenu/after-registration.png)
+
+* [configuration.png](Chromenu/configuration.png)
+
+![](Chromenu/configuration.png)
+
+* [main.jpg](Chromenu/main.jpg)
+
+![](Chromenu/main.jpg)
+
+* [startup.png](Chromenu/startup.png)
+
+![](Chromenu/startup.png)
+
+
 ## [clever-f.vim/](https://github.com/rhysd/clever-f.vim/)
 * [cleverf_1.gif](clever-f.vim/cleverf_1.gif)
 
