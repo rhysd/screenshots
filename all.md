@@ -40,6 +40,10 @@ All Screenshots
 
 ![](Chromenu/main.jpg)
 
+* [page-search.gif](Chromenu/page-search.gif)
+
+![](Chromenu/page-search.gif)
+
 * [startup.png](Chromenu/startup.png)
 
 ![](Chromenu/startup.png)
