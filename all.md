@@ -427,6 +427,16 @@ All Screenshots
 ![](vim-color-splatoon/color-splatoon.gif)
 
 
+## [vim-color-spring-night/](https://github.com/rhysd/vim-color-spring-night/)
+* [cui.png](vim-color-spring-night/cui.png)
+
+![](vim-color-spring-night/cui.png)
+
+* [gui.png](vim-color-spring-night/gui.png)
+
+![](vim-color-spring-night/gui.png)
+
+
 ## [vim-crystal/](https://github.com/rhysd/vim-crystal/)
 * [completion.gif](vim-crystal/completion.gif)
 
