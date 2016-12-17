@@ -428,13 +428,29 @@ All Screenshots
 
 
 ## [vim-color-spring-night/](https://github.com/rhysd/vim-color-spring-night/)
-* [cui.png](vim-color-spring-night/cui.png)
+* [gui-go.jpg](vim-color-spring-night/gui-go.jpg)
 
-![](vim-color-spring-night/cui.png)
+![](vim-color-spring-night/gui-go.jpg)
 
-* [gui.png](vim-color-spring-night/gui.png)
+* [gui-vim.jpg](vim-color-spring-night/gui-vim.jpg)
 
-![](vim-color-spring-night/gui.png)
+![](vim-color-spring-night/gui-vim.jpg)
+
+* [terminal-64bit-go.jpg](vim-color-spring-night/terminal-64bit-go.jpg)
+
+![](vim-color-spring-night/terminal-64bit-go.jpg)
+
+* [terminal-64bit-vim.jpg](vim-color-spring-night/terminal-64bit-vim.jpg)
+
+![](vim-color-spring-night/terminal-64bit-vim.jpg)
+
+* [terminal-8bit-go.jpg](vim-color-spring-night/terminal-8bit-go.jpg)
+
+![](vim-color-spring-night/terminal-8bit-go.jpg)
+
+* [terminal-8bit-vim.jpg](vim-color-spring-night/terminal-8bit-vim.jpg)
+
+![](vim-color-spring-night/terminal-8bit-vim.jpg)
 
 
 ## [vim-crystal/](https://github.com/rhysd/vim-crystal/)
