@@ -492,6 +492,10 @@ All Screenshots
 
 ![](vim-gfm-syntax/before.png)
 
+* [emoji-conceal.gif](vim-gfm-syntax/emoji-conceal.gif)
+
+![](vim-gfm-syntax/emoji-conceal.gif)
+
 
 ## [vim-rustpeg/](https://github.com/rhysd/vim-rustpeg/)
 * [main.png](vim-rustpeg/main.png)
