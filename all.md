@@ -378,9 +378,21 @@ All Screenshots
 
 
 ## [Tui/](https://github.com/rhysd/Tui/)
+* [informed.jpg](Tui/informed.jpg)
+
+![](Tui/informed.jpg)
+
 * [main.jpg](Tui/main.jpg)
 
 ![](Tui/main.jpg)
+
+* [normal.jpg](Tui/normal.jpg)
+
+![](Tui/normal.jpg)
+
+* [notified.jpg](Tui/notified.jpg)
+
+![](Tui/notified.jpg)
 
 
 ## [unite-emoji.vim/](https://github.com/rhysd/unite-emoji.vim/)
