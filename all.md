@@ -390,6 +390,10 @@ All Screenshots
 
 ![](Tui/normal.jpg)
 
+* [normal_window.png](Tui/normal_window.png)
+
+![](Tui/normal_window.png)
+
 * [notified.jpg](Tui/notified.jpg)
 
 ![](Tui/notified.jpg)
