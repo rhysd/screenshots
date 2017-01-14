@@ -403,6 +403,12 @@ All Screenshots
 ![](Tui/notified.jpg)
 
 
+## [tui-theme-dark/](https://github.com/rhysd/tui-theme-dark/)
+* [main.png](tui-theme-dark/main.png)
+
+![](tui-theme-dark/main.png)
+
+
 ## [unite-emoji.vim/](https://github.com/rhysd/unite-emoji.vim/)
 * [unite_emoji.gif](unite-emoji.vim/unite_emoji.gif)
 
