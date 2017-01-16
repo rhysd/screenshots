@@ -378,6 +378,10 @@ All Screenshots
 
 
 ## [Tui/](https://github.com/rhysd/Tui/)
+* [accounts.jpg](Tui/accounts.jpg)
+
+![](Tui/accounts.jpg)
+
 * [desktop.jpg](Tui/desktop.jpg)
 
 ![](Tui/desktop.jpg)
