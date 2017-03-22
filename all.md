@@ -555,6 +555,12 @@ All Screenshots
 ![](vim-wast/wast.png)
 
 
+## [wandbox-vim/](https://github.com/rhysd/wandbox-vim/)
+* [wandbox.png](wandbox-vim/wandbox.png)
+
+![](wandbox-vim/wandbox.png)
+
+
 ## [YourFukurou/](https://github.com/rhysd/YourFukurou/)
 * [activity_full.png](YourFukurou/activity_full.png)
 
