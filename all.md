@@ -165,6 +165,12 @@ All Screenshots
 ![](Irasutoyer/scraping.gif)
 
 
+## [Mstdn/](https://github.com/rhysd/Mstdn/)
+* [main.png](Mstdn/main.png)
+
+![](Mstdn/main.png)
+
+
 ## [neovim-component/](https://github.com/rhysd/neovim-component/)
 * [flow.png](neovim-component/flow.png)
 
