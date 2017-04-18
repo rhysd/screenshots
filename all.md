@@ -170,6 +170,10 @@ All Screenshots
 
 ![](Mstdn/main.png)
 
+* [multi-account.png](Mstdn/multi-account.png)
+
+![](Mstdn/multi-account.png)
+
 
 ## [neovim-component/](https://github.com/rhysd/neovim-component/)
 * [flow.png](neovim-component/flow.png)
