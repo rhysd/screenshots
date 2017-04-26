@@ -76,6 +76,10 @@ All Screenshots
 
 ![](committia.vim/main.jpg)
 
+* [narrow.jpg](committia.vim/narrow.jpg)
+
+![](committia.vim/narrow.jpg)
+
 
 ## [crdoc/](https://github.com/rhysd/crdoc/)
 * [crdoc.gif](crdoc/crdoc.gif)
