@@ -575,6 +575,12 @@ All Screenshots
 ![](wandbox-vim/wandbox.png)
 
 
+## [y-output.vim/](https://github.com/rhysd/y-output.vim/)
+* [main.png](y-output.vim/main.png)
+
+![](y-output.vim/main.png)
+
+
 ## [YourFukurou/](https://github.com/rhysd/YourFukurou/)
 * [activity_full.png](YourFukurou/activity_full.png)
 
