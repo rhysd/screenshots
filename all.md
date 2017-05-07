@@ -547,6 +547,12 @@ All Screenshots
 ![](vim-gfm-syntax/emoji-conceal.gif)
 
 
+## [vim-grammarous/](https://github.com/rhysd/vim-grammarous/)
+* [demo.gif](vim-grammarous/demo.gif)
+
+![](vim-grammarous/demo.gif)
+
+
 ## [vim-rustpeg/](https://github.com/rhysd/vim-rustpeg/)
 * [main.png](vim-rustpeg/main.png)
 
