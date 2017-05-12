@@ -547,6 +547,12 @@ All Screenshots
 ![](vim-gfm-syntax/emoji-conceal.gif)
 
 
+## [vim-goyacc/](https://github.com/rhysd/vim-goyacc/)
+* [main.png](vim-goyacc/main.png)
+
+![](vim-goyacc/main.png)
+
+
 ## [vim-grammarous/](https://github.com/rhysd/vim-grammarous/)
 * [demo.gif](vim-grammarous/demo.gif)
 
