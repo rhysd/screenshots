@@ -169,6 +169,12 @@ All Screenshots
 ![](Irasutoyer/scraping.gif)
 
 
+## [loc/](https://github.com/rhysd/loc/)
+* [output.png](loc/output.png)
+
+![](loc/output.png)
+
+
 ## [Mstdn/](https://github.com/rhysd/Mstdn/)
 * [main.png](Mstdn/main.png)
 
