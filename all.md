@@ -169,10 +169,10 @@ All Screenshots
 ![](Irasutoyer/scraping.gif)
 
 
-## [loc/](https://github.com/rhysd/loc/)
-* [output.png](loc/output.png)
+## [locerr/](https://github.com/rhysd/locerr/)
+* [output.png](locerr/output.png)
 
-![](loc/output.png)
+![](locerr/output.png)
 
 
 ## [Mstdn/](https://github.com/rhysd/Mstdn/)
