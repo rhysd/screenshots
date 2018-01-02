@@ -121,6 +121,12 @@ All Screenshots
 ![](ezoe/ezoe.png)
 
 
+## [ghpr-blame.vim/](https://github.com/rhysd/ghpr-blame.vim/)
+* [main.jpg](ghpr-blame.vim/main.jpg)
+
+![](ghpr-blame.vim/main.jpg)
+
+
 ## [github-complete.vim/](https://github.com/rhysd/github-complete.vim/)
 * [emoji_completion.gif](github-complete.vim/emoji_completion.gif)
 
