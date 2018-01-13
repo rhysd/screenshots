@@ -121,6 +121,32 @@ All Screenshots
 ![](ezoe/ezoe.png)
 
 
+## [fixjson/](https://github.com/rhysd/fixjson/)
+* [addkey.gif](fixjson/addkey.gif)
+
+![](fixjson/addkey.gif)
+
+* [keyquotes.gif](fixjson/keyquotes.gif)
+
+![](fixjson/keyquotes.gif)
+
+* [modifykeys.gif](fixjson/modifykeys.gif)
+
+![](fixjson/modifykeys.gif)
+
+* [newlines.gif](fixjson/newlines.gif)
+
+![](fixjson/newlines.gif)
+
+* [number.gif](fixjson/number.gif)
+
+![](fixjson/number.gif)
+
+* [prettyprint.gif](fixjson/prettyprint.gif)
+
+![](fixjson/prettyprint.gif)
+
+
 ## [ghpr-blame.vim/](https://github.com/rhysd/ghpr-blame.vim/)
 * [main.jpg](ghpr-blame.vim/main.jpg)
 
