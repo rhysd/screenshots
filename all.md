@@ -243,6 +243,12 @@ All Screenshots
 ![](neovim-component/popup-image-example.gif)
 
 
+## [notes-cli/](https://github.com/rhysd/notes-cli/)
+* [demo.gif](notes-cli/demo.gif)
+
+![](notes-cli/demo.gif)
+
+
 ## [npm-debug-log.vim/](https://github.com/rhysd/npm-debug-log.vim/)
 * [disabled.png](npm-debug-log.vim/disabled.png)
 
