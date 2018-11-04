@@ -591,6 +591,12 @@ All Screenshots
 ![](vim-gfm-syntax/emoji-conceal.gif)
 
 
+## [vim-github-actions/](https://github.com/rhysd/vim-github-actions/)
+* [main.png](vim-github-actions/main.png)
+
+![](vim-github-actions/main.png)
+
+
 ## [vim-goyacc/](https://github.com/rhysd/vim-goyacc/)
 * [main.png](vim-goyacc/main.png)
 
