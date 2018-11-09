@@ -609,6 +609,12 @@ All Screenshots
 ![](vim-grammarous/demo.gif)
 
 
+## [vim-notes-cli/](https://github.com/rhysd/vim-notes-cli/)
+* [demo.gif](vim-notes-cli/demo.gif)
+
+![](vim-notes-cli/demo.gif)
+
+
 ## [vim-rustpeg/](https://github.com/rhysd/vim-rustpeg/)
 * [main.png](vim-rustpeg/main.png)
 
