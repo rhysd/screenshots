@@ -179,6 +179,12 @@ All Screenshots
 ![](github-complete.vim/user_completion.gif)
 
 
+## [gotest/](https://github.com/rhysd/gotest/)
+* [main.png](gotest/main.png)
+
+![](gotest/main.png)
+
+
 ## [Irasutoyer/](https://github.com/rhysd/Irasutoyer/)
 * [advanced.gif](Irasutoyer/advanced.gif)
 
