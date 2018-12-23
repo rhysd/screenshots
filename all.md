@@ -627,6 +627,12 @@ All Screenshots
 ![](vim-rustpeg/main.png)
 
 
+## [vim-syntax-christmas-tree/](https://github.com/rhysd/vim-syntax-christmas-tree/)
+* [demo.gif](vim-syntax-christmas-tree/demo.gif)
+
+![](vim-syntax-christmas-tree/demo.gif)
+
+
 ## [vim-textobj-conflict/](https://github.com/rhysd/vim-textobj-conflict/)
 * [textobj-conflict.gif](vim-textobj-conflict/textobj-conflict.gif)
 
