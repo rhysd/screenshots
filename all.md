@@ -633,6 +633,16 @@ All Screenshots
 ![](vim-syntax-christmas-tree/demo.gif)
 
 
+## [vim-syntax-codeowners/](https://github.com/rhysd/vim-syntax-codeowners/)
+* [codeowners.png](vim-syntax-codeowners/codeowners.png)
+
+![](vim-syntax-codeowners/codeowners.png)
+
+* [conf.png](vim-syntax-codeowners/conf.png)
+
+![](vim-syntax-codeowners/conf.png)
+
+
 ## [vim-textobj-conflict/](https://github.com/rhysd/vim-textobj-conflict/)
 * [textobj-conflict.gif](vim-textobj-conflict/textobj-conflict.gif)
 
