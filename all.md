@@ -665,6 +665,20 @@ All Screenshots
 ![](wandbox-vim/wandbox.png)
 
 
+## [world-map-gen/](https://github.com/rhysd/world-map-gen/)
+* [2d.png](world-map-gen/2d.png)
+
+![](world-map-gen/2d.png)
+
+* [3d.png](world-map-gen/3d.png)
+
+![](world-map-gen/3d.png)
+
+* [term.png](world-map-gen/term.png)
+
+![](world-map-gen/term.png)
+
+
 ## [y-output.vim/](https://github.com/rhysd/y-output.vim/)
 * [main.png](y-output.vim/main.png)
 
