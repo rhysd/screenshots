@@ -153,6 +153,12 @@ All Screenshots
 ![](ghpr-blame.vim/main.jpg)
 
 
+## [git-messenger.vim/](https://github.com/rhysd/git-messenger.vim/)
+* [demo.gif](git-messenger.vim/demo.gif)
+
+![](git-messenger.vim/demo.gif)
+
+
 ## [github-complete.vim/](https://github.com/rhysd/github-complete.vim/)
 * [emoji_completion.gif](github-complete.vim/emoji_completion.gif)
 
