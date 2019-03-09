@@ -158,6 +158,10 @@ All Screenshots
 
 ![](git-messenger.vim/demo.gif)
 
+* [history.gif](git-messenger.vim/history.gif)
+
+![](git-messenger.vim/history.gif)
+
 
 ## [github-complete.vim/](https://github.com/rhysd/github-complete.vim/)
 * [emoji_completion.gif](github-complete.vim/emoji_completion.gif)
