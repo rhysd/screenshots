@@ -158,6 +158,10 @@ All Screenshots
 
 ![](git-messenger.vim/demo.gif)
 
+* [diff.gif](git-messenger.vim/diff.gif)
+
+![](git-messenger.vim/diff.gif)
+
 * [history.gif](git-messenger.vim/history.gif)
 
 ![](git-messenger.vim/history.gif)
