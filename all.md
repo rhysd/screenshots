@@ -27,6 +27,16 @@ All Screenshots
 ![](ask-on-exception/main.gif)
 
 
+## [break-tweet-autolink/](https://github.com/rhysd/break-tweet-autolink/)
+* [chrome.gif](break-tweet-autolink/chrome.gif)
+
+![](break-tweet-autolink/chrome.gif)
+
+* [web.gif](break-tweet-autolink/web.gif)
+
+![](break-tweet-autolink/web.gif)
+
+
 ## [Chromenu/](https://github.com/rhysd/Chromenu/)
 * [after-registration.png](Chromenu/after-registration.png)
 
