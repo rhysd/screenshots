@@ -707,6 +707,12 @@ All Screenshots
 ![](vim-wast/wast.png)
 
 
+## [vimwasm-try-plugin/](https://github.com/rhysd/vimwasm-try-plugin/)
+* [main.gif](vimwasm-try-plugin/main.gif)
+
+![](vimwasm-try-plugin/main.gif)
+
+
 ## [wandbox-vim/](https://github.com/rhysd/wandbox-vim/)
 * [wandbox.png](wandbox-vim/wandbox.png)
 
