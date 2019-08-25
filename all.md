@@ -231,6 +231,40 @@ All Screenshots
 ![](Irasutoyer/scraping.gif)
 
 
+## [kiro-editor/](https://github.com/rhysd/kiro-editor/)
+* [colors_16.png](kiro-editor/colors_16.png)
+
+![](kiro-editor/colors_16.png)
+
+* [colors_256.png](kiro-editor/colors_256.png)
+
+![](kiro-editor/colors_256.png)
+
+* [colors_true.png](kiro-editor/colors_true.png)
+
+![](kiro-editor/colors_true.png)
+
+* [main.gif](kiro-editor/main.gif)
+
+![](kiro-editor/main.gif)
+
+* [multibyte_chars.gif](kiro-editor/multibyte_chars.gif)
+
+![](kiro-editor/multibyte_chars.gif)
+
+* [new_file.gif](kiro-editor/new_file.gif)
+
+![](kiro-editor/new_file.gif)
+
+* [resize.gif](kiro-editor/resize.gif)
+
+![](kiro-editor/resize.gif)
+
+* [search.gif](kiro-editor/search.gif)
+
+![](kiro-editor/search.gif)
+
+
 ## [locerr/](https://github.com/rhysd/locerr/)
 * [output.png](locerr/output.png)
 
