@@ -264,6 +264,10 @@ All Screenshots
 
 ![](kiro-editor/search.gif)
 
+* [undo_redo.gif](kiro-editor/undo_redo.gif)
+
+![](kiro-editor/undo_redo.gif)
+
 
 ## [locerr/](https://github.com/rhysd/locerr/)
 * [output.png](locerr/output.png)
