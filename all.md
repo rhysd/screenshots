@@ -7,6 +7,16 @@ All Screenshots
 ![](vim-textobj-conflict/textobj-conflict.gif)
 
 
+## [wain/](https://github.com/rhysd/wain/)
+* [parsing-diagram.png](wain/parsing-diagram.png)
+
+![](wain/parsing-diagram.png)
+
+* [main.gif](wain/main.gif)
+
+![](wain/main.gif)
+
+
 ## [electron-open-url/](https://github.com/rhysd/electron-open-url/)
 * [main.gif](electron-open-url/main.gif)
 
