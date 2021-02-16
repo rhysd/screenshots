@@ -812,6 +812,10 @@ All Screenshots
 
 ![](git-messenger.vim/history.gif)
 
+* [worddiff.gif](git-messenger.vim/worddiff.gif)
+
+![](git-messenger.vim/worddiff.gif)
+
 * [diff.gif](git-messenger.vim/diff.gif)
 
 ![](git-messenger.vim/diff.gif)
