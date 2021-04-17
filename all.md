@@ -816,6 +816,10 @@ All Screenshots
 
 ![](git-messenger.vim/worddiff.gif)
 
+* [border_popup.png](git-messenger.vim/border_popup.png)
+
+![](git-messenger.vim/border_popup.png)
+
 * [diff.gif](git-messenger.vim/diff.gif)
 
 ![](git-messenger.vim/diff.gif)
