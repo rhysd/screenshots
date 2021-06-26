@@ -493,6 +493,12 @@ All Screenshots
 ![](y-output.vim/main.png)
 
 
+## [actionlint/](https://github.com/rhysd/actionlint/)
+* [main.png](actionlint/main.png)
+
+![](actionlint/main.png)
+
+
 ## [break-tweet-autolink/](https://github.com/rhysd/break-tweet-autolink/)
 * [chrome.gif](break-tweet-autolink/chrome.gif)
 
