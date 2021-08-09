@@ -272,6 +272,10 @@ All Screenshots
 
 
 ## [actionlint/](https://github.com/rhysd/actionlint/)
+* [ga-annotate.png](actionlint/ga-annotate.png)
+
+![](actionlint/ga-annotate.png)
+
 * [main.gif](actionlint/main.gif)
 
 ![](actionlint/main.gif)
