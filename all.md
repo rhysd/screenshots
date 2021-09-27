@@ -401,6 +401,12 @@ All Screenshots
 ![](fixjson/prettyprint.gif)
 
 
+## [fixred/](https://github.com/rhysd/fixred/)
+* [main.gif](fixred/main.gif)
+
+![](fixred/main.gif)
+
+
 ## [ghpr-blame.vim/](https://github.com/rhysd/ghpr-blame.vim/)
 * [main.jpg](ghpr-blame.vim/main.jpg)
 
