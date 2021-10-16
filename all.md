@@ -485,6 +485,12 @@ All Screenshots
 ![](gotest/main.png)
 
 
+## [hgrep/](https://github.com/rhysd/hgrep/)
+* [main.png](hgrep/main.png)
+
+![](hgrep/main.png)
+
+
 ## [kiro-editor/](https://github.com/rhysd/kiro-editor/)
 * [colors_16.png](kiro-editor/colors_16.png)
 
