@@ -486,6 +486,14 @@ All Screenshots
 
 
 ## [hgrep/](https://github.com/rhysd/hgrep/)
+* [comparison_bat.png](hgrep/comparison_bat.png)
+
+![](hgrep/comparison_bat.png)
+
+* [comparison_syntect.png](hgrep/comparison_syntect.png)
+
+![](hgrep/comparison_syntect.png)
+
 * [main.png](hgrep/main.png)
 
 ![](hgrep/main.png)
