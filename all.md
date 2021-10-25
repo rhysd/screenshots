@@ -635,6 +635,12 @@ All Screenshots
 ![](reply.vim/send.gif)
 
 
+## [rgb2ansi256/](https://github.com/rhysd/rgb2ansi256/)
+* [compare.png](rgb2ansi256/compare.png)
+
+![](rgb2ansi256/compare.png)
+
+
 ## [rust-doc.vim/](https://github.com/rhysd/rust-doc.vim/)
 * [rust-doc.vim.gif](rust-doc.vim/rust-doc.vim.gif)
 
