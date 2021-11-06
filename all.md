@@ -486,6 +486,18 @@ All Screenshots
 
 
 ## [hgrep/](https://github.com/rhysd/hgrep/)
+* [ayu-dark.png](hgrep/ayu-dark.png)
+
+![](hgrep/ayu-dark.png)
+
+* [ayu-light.png](hgrep/ayu-light.png)
+
+![](hgrep/ayu-light.png)
+
+* [ayu-mirage.png](hgrep/ayu-mirage.png)
+
+![](hgrep/ayu-mirage.png)
+
 * [comparison_bat.png](hgrep/comparison_bat.png)
 
 ![](hgrep/comparison_bat.png)
@@ -494,9 +506,17 @@ All Screenshots
 
 ![](hgrep/comparison_syntect.png)
 
+* [cyanide.png](hgrep/cyanide.png)
+
+![](hgrep/cyanide.png)
+
 * [main.png](hgrep/main.png)
 
 ![](hgrep/main.png)
+
+* [predawn.png](hgrep/predawn.png)
+
+![](hgrep/predawn.png)
 
 
 ## [kiro-editor/](https://github.com/rhysd/kiro-editor/)
