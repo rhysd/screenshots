@@ -514,6 +514,10 @@ All Screenshots
 
 ![](hgrep/main.png)
 
+* [material.png](hgrep/material.png)
+
+![](hgrep/material.png)
+
 * [predawn.png](hgrep/predawn.png)
 
 ![](hgrep/predawn.png)
