@@ -486,6 +486,10 @@ All Screenshots
 
 
 ## [hgrep/](https://github.com/rhysd/hgrep/)
+* [Carbonight.png](hgrep/Carbonight.png)
+
+![](hgrep/Carbonight.png)
+
 * [ayu-dark.png](hgrep/ayu-dark.png)
 
 ![](hgrep/ayu-dark.png)
