@@ -766,6 +766,10 @@ All Screenshots
 
 ![](vim-color-spring-night/gui-vim.jpg)
 
+* [iterm2.png](vim-color-spring-night/iterm2.png)
+
+![](vim-color-spring-night/iterm2.png)
+
 * [terminal-64bit-go.jpg](vim-color-spring-night/terminal-64bit-go.jpg)
 
 ![](vim-color-spring-night/terminal-64bit-go.jpg)
