@@ -691,6 +691,24 @@ All Screenshots
 ![](try-colorscheme.vim/try-colorscheme.gif)
 
 
+## [tui-textarea/](https://github.com/rhysd/tui-textarea/)
+* [editor.gif](tui-textarea/editor.gif)
+
+![](tui-textarea/editor.gif)
+
+* [minimal.gif](tui-textarea/minimal.gif)
+
+![](tui-textarea/minimal.gif)
+
+* [single_input.gif](tui-textarea/single_input.gif)
+
+![](tui-textarea/single_input.gif)
+
+* [split.gif](tui-textarea/split.gif)
+
+![](tui-textarea/split.gif)
+
+
 ## [tui-theme-dark/](https://github.com/rhysd/tui-theme-dark/)
 * [main.png](tui-theme-dark/main.png)
 
