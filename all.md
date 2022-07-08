@@ -700,9 +700,9 @@ All Screenshots
 
 ![](tui-textarea/minimal.gif)
 
-* [single_input.gif](tui-textarea/single_input.gif)
+* [single_line.gif](tui-textarea/single_line.gif)
 
-![](tui-textarea/single_input.gif)
+![](tui-textarea/single_line.gif)
 
 * [split.gif](tui-textarea/split.gif)
 
