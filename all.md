@@ -679,6 +679,12 @@ All Screenshots
 ![](rust-doc.vim/unite-rust-doc.gif)
 
 
+## [rust-webview-example/](https://github.com/rhysd/rust-webview-example/)
+* [main.png](rust-webview-example/main.png)
+
+![](rust-webview-example/main.png)
+
+
 ## [translate-markdown/](https://github.com/rhysd/translate-markdown/)
 * [main.gif](translate-markdown/main.gif)
 
