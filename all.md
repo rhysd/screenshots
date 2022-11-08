@@ -375,6 +375,12 @@ All Screenshots
 ![](ezoe/ezoe.png)
 
 
+## [fast-json-clone/](https://github.com/rhysd/fast-json-clone/)
+* [perf.png](fast-json-clone/perf.png)
+
+![](fast-json-clone/perf.png)
+
+
 ## [fixjson/](https://github.com/rhysd/fixjson/)
 * [addkey.gif](fixjson/addkey.gif)
 
