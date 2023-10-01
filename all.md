@@ -712,6 +712,10 @@ All Screenshots
 
 ![](tui-textarea/minimal.gif)
 
+* [placepop.gif](tui-textarea/placepop.gif)
+
+![](tui-textarea/placepop.gif)
+
 * [single_line.gif](tui-textarea/single_line.gif)
 
 ![](tui-textarea/single_line.gif)
