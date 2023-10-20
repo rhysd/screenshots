@@ -716,6 +716,10 @@ All Screenshots
 
 ![](tui-textarea/minimal.gif)
 
+* [password.gif](tui-textarea/password.gif)
+
+![](tui-textarea/password.gif)
+
 * [placepop.gif](tui-textarea/placepop.gif)
 
 ![](tui-textarea/placepop.gif)
