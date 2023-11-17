@@ -732,6 +732,10 @@ All Screenshots
 
 ![](tui-textarea/split.gif)
 
+* [vim.gif](tui-textarea/vim.gif)
+
+![](tui-textarea/vim.gif)
+
 
 ## [tui-theme-dark/](https://github.com/rhysd/tui-theme-dark/)
 * [main.png](tui-theme-dark/main.png)
