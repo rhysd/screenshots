@@ -804,6 +804,10 @@ All Screenshots
 
 
 ## [vim-color-spring-night/](https://github.com/rhysd/vim-color-spring-night/)
+* [alacritty.png](vim-color-spring-night/alacritty.png)
+
+![](vim-color-spring-night/alacritty.png)
+
 * [gui-go.jpg](vim-color-spring-night/gui-go.jpg)
 
 ![](vim-color-spring-night/gui-go.jpg)
